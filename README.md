@@ -1,5 +1,10 @@
-### Hi there 👋
+### Welcome 😃
 
+➡️ EGutierrezL is a public repository where everyone can find content about this github account 👱.
+
+... in a nutshell:
+
+Thanks for read this. 👋
 <!--
 **EGutierrezL/EGutierrezL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
